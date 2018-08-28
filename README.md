@@ -5,7 +5,8 @@ python3.5+
 Based on ponyorm.
 
 Database adapted:
-  mysql: using aionmysql.
+
+    mysql: using aiomysql.
  
 ### Can only suport one Database now.
  
